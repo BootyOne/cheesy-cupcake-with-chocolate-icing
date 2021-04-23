@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -8931646897290346511
     second: mini_fantasy_sprites_oga_ver-removebg-preview_0
+  - first:
+      213: -1649959513954508243
+    second: mini_fantasy_sprites_oga_ver-removebg-preview_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -122,6 +125,27 @@ TextureImporter:
       bones: []
       spriteID: 1fff9c3087a6c0480800000000000000
       internalID: -8931646897290346511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2227fc509a2a19e0800000000000000
+      internalID: -1649959513954508243
       vertices: []
       indices: 
       edges: []
