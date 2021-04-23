@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.cheesy-cupcake-with-chocolate-icing.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\misha\Documents\GitHub\cheesy-cupcake-with-chocolate-icing\.idea\.idea.cheesy-cupcake-with-chocolate-icing\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
