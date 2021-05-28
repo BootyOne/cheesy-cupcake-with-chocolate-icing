@@ -6,10 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    public GameObject hero;
     private Rigidbody2D rb;
     public float speed;
     public float jumpForce;
     private float moveInput;
+    public Animator animator;
 
     private bool isGrounded;
     public Transform feetPos;
@@ -19,11 +21,16 @@ public class PlayerController : MonoBehaviour
     private float jumpTimeCounter;
     public float jumpTime;
     private bool isJumping;
+    public GameObject ElementsList;
+    
+    public AudioSource HitSound;
+
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
+
     private void FixedUpdate()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -36,13 +43,16 @@ public class PlayerController : MonoBehaviour
 
         if (moveInput > 0)
         {
+            
             transform.eulerAngles = new Vector3(0, 0, 0);
+            ElementsList.transform.eulerAngles = new Vector3(0, 0, 0);
         }
         else if (moveInput < 0)
         {
             transform.eulerAngles = new Vector3(0, 180, 0);
+            ElementsList.transform.eulerAngles = new Vector3(0, 0, 0);
         }
-        if(isGrounded == true && Input.GetKeyDown(KeyCode.Space))
+        if (isGrounded == true && Input.GetKeyDown(KeyCode.Space))
         {
             isJumping = true;
             jumpTimeCounter = jumpTime;
@@ -64,6 +74,35 @@ public class PlayerController : MonoBehaviour
             {
                 isJumping = false;
             }
+        }
+        if (!isGrounded)
+        {
+            animator.SetBool("isJumping", true);
+        }
+        else
+        {
+            animator.SetBool("isJumping", false);
+        }
+    }
+
+    public void SpeedPlayerUp()
+    {
+        if (speed == 2)
+        {
+            speed = (float)(speed * 1.5);
+            Invoke("SpeedPlayerDown", 8f);
+        }
+    }
+
+    private void SpeedPlayerDown()
+    {
+        speed = (float)(speed * 2 / 3);
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.name == "Enemy_walking" && EnemyController.canMusic)
+        {
+            HitSound.Play();
         }
     }
 }

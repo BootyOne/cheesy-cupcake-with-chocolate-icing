@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 564474b636754404595e7f95491a268b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 407318054063011846
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_0"
+  - first:
+      213: -3207287645663313250
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_1"
+  - first:
+      213: 1050133277444898916
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_2"
+  - first:
+      213: 67465907749059613
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_3"
+  - first:
+      213: -930009322747920267
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_4"
+  - first:
+      213: 1491648879887668427
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_5"
+  - first:
+      213: 8417754009323186214
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_6"
+  - first:
+      213: 1796737673752631535
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_7"
+  - first:
+      213: 6323553881630701881
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_8"
+  - first:
+      213: 4144026632492891828
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_9"
+  - first:
+      213: -2079521674868740476
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_10"
+  - first:
+      213: 5804759774532985777
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_11"
+  - first:
+      213: -6341612263294837025
+    second: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_0"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1333
+        width: 2115
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087703bc9517a500800000000000000
+      internalID: 407318054063011846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_1"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1034
+        width: 610
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924db311ec6d73d0800000000000000
+      internalID: -3207287645663313250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_2"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1029
+        width: 610
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608be8e6a2d29e00800000000000000
+      internalID: 1050133277444898916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_3"
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1021
+        width: 609
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf4d9b2efafe000800000000000000
+      internalID: 67465907749059613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_4"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 717
+        width: 610
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700fc7c271f713f0800000000000000
+      internalID: -930009322747920267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_5"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 712
+        width: 610
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4505fc0c663b410800000000000000
+      internalID: 1491648879887668427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_6"
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 703
+        width: 609
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628245c1caed1d470800000000000000
+      internalID: 8417754009323186214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_7"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 409
+        width: 609
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8569e056b4fe810800000000000000
+      internalID: 1796737673752631535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_8"
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 405
+        width: 609
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f3a070c6c1c750800000000000000
+      internalID: 6323553881630701881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_9"
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 396
+        width: 609
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3f79244a828930800000000000000
+      internalID: 4144026632492891828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_10"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 610
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e29b2fd0e0423e0800000000000000
+      internalID: -2079521674868740476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_11"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 90
+        width: 610
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e38f8246ae8050800000000000000
+      internalID: 5804759774532985777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of sci-fi blue game_6259705_12"
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 82
+        width: 609
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdedc0fee311ef7a0800000000000000
+      internalID: -6341612263294837025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - BG_MUSIC_VOLUME_SLIDER
+  - BG_MUSIC_VOLUME_TEXT
+  - BG_MUSIC_CREATED
   - eneny
+  - ground
   layers:
   - Default
   - TransparentFX
@@ -13,11 +17,11 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Player
+  - Magic
+  - WorldBorder
+  - frog
   - 
   - 
   - 

@@ -476,9 +476,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 55
-        y: 229
+        y: 273
         width: 15
-        height: 66
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,9 +581,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 231
+        y: 248
         width: 15
-        height: 40
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,9 +602,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 105
-        y: 230
+        y: 248
         width: 16
-        height: 40
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,12 +706,12 @@ TextureImporter:
       name: mini_fantasy_sprites_oga_ver-removebg-preview_18
       rect:
         serializedVersion: 2
-        x: 54
-        y: 175
-        width: 22
-        height: 51
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 53
+        y: 199
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.43958786, y: 0.40126893}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -750,7 +750,7 @@ TextureImporter:
         serializedVersion: 2
         x: 104
         y: 200
-        width: 44
+        width: 21
         height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -980,9 +980,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 101
-        y: 151
+        y: 174
         width: 21
-        height: 44
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,9 +1001,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 151
+        y: 173
         width: 22
-        height: 44
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1253,9 +1253,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 55
-        y: 126
+        y: 150
         width: 15
-        height: 46
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1484,9 +1484,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 381
-        y: 123
+        y: 127
         width: 13
-        height: 18
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1866,7 +1866,7 @@ TextureImporter:
         width: 17
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 1, w: 0}
       outline: []
       physicsShape: []
@@ -1874,6 +1874,174 @@ TextureImporter:
       bones: []
       spriteID: 641eae33df2f74cc0800000000000000
       internalID: -3726742997314117306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 248
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ecf2c2f28e42c0800000000000000
+      internalID: -4445471803003051066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 228
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3968dd45d9f361240800000000000000
+      internalID: 4762063600957097619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 230
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb49299bad53620800000000000000
+      internalID: 2753347237769952732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b2a51c84263a10800000000000000
+      internalID: 1888737277805507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252cc5cecef808350800000000000000
+      internalID: 6016967349907538514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad6d6323a79bbd70800000000000000
+      internalID: 9060001802315722153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292830550d1654360800000000000000
+      internalID: 7153231130555286162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_fantasy_sprites_oga_ver-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 127
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce397a0a42716ff0800000000000000
+      internalID: -44628858968129849
       vertices: []
       indices: 
       edges: []
