@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\misha\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\misha\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_cheesy-cupcake-with-chocolate-icing.204054490.00" t="ExcludeRecursive" />
+    <e p="C:\Users\misha\Documents\GitHub\cheesy-cupcake-with-chocolate-icing" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scripts" t="Include">
+          <e p="BaseStatic.cs" t="Include" />
+          <e p="BorderDead.cs" t="Include" />
+          <e p="Danger1HeroDead.cs" t="Include" />
+          <e p="DeadHero.cs" t="Include" />
+          <e p="EnenmyController.cs" t="Include" />
+          <e p="MoveCamera.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="cheesy-cupcake-with-chocolate-icing.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
